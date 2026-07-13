@@ -1,0 +1,19 @@
+README.md
+  s_cf3c9812e7fc2c::t_26e32415765d18 17-18,20-27,31-41,46-49,53-57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.12",
+  "base_commit_sha": "23fae8daec6b5216087b522ec59c4088b359e2db",
+  "prompts": {},
+  "sessions": {
+    "s_cf3c9812e7fc2c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3d22-876f-7442-961e-bb24e65d0362",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Michael Geiger <michaelgeiger@hey.com>"
+    }
+  }
+}
